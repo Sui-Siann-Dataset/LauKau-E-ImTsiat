@@ -1,5 +1,7 @@
 import json
 from 看無聲調的音節 import ko_pio
+import subprocess
+from sys import stderr
 
 
 def main():
@@ -8,14 +10,23 @@ def main():
     #
     imTsiatPio = ko_pio()
     thongKePio = getThongKePio()
-    arr = dict()
+    逐个音節的數量表 = dict()
     for im in imTsiatPio:
         try:
             times = thongKePio[im]
         except KeyError:
             times = 0
-        arr[im] = times
+        逐个音節的數量表[im] = times
 
+    # printCompareResult() # 共印出來看覓
+
+    指定數量 = 0
+    writeGrep(逐个音節的數量表, 指定數量)
+#     指定數量 = 1
+#     writeGrep(指定數量)
+
+
+def printCompareResult(arr):
     print(
         json.dumps(
             sorted(arr.items(), key=lambda x: (x[1], x[0])),
@@ -24,6 +35,25 @@ def main():
             indent=2,
         )
     )
+
+
+def getImTsiatByNumber(imTsiatArr, times):
+    return sorted([i for i in imTsiatArr if imTsiatArr[i] == times])
+
+
+def writeGrep(逐个音節的數量表, 指定數量):
+    #
+    # 撈出有遮濟擺的音節
+    #
+    arr = getImTsiatByNumber(逐个音節的數量表, 指定數量)
+    #
+    # 撈出佇教會公報有這个音節的句
+    #
+    for im in arr:
+        with open('統計/{}_{}.txt'.format(指定數量, im), 'wb') as outputFile:
+            cmd = ["zgrep", "-w", '{}[0-9]'.format(im), 'tsuanlo.txt.gz']
+            proc = subprocess.run(
+                cmd, stderr=stderr, stdout=outputFile, check=True)
 
 
 def getThongKePio():
