@@ -2,6 +2,9 @@ import json
 from 看無聲調的音節 import ko_pio
 import subprocess
 from sys import stderr
+from tauphahji_cmd import tàuphahjī, liânKù
+from asyncio.subprocess import PIPE
+from 臺灣言語工具.解析整理.拆文分析器 import 拆文分析器
 
 
 def main():
@@ -50,11 +53,36 @@ def writeGrep(逐个音節的數量表, 指定數量):
     # 撈出佇教會公報有這个音節的句
     #
     for im in arr:
-        with open('統計/{}_{}.txt'.format(指定數量, im), 'wb') as outputFile:
+        with open('統計/{}_{}.txt'.format(指定數量, im), 'w') as outputFile:
             cmd = ["zgrep", "-w", '{}[0-9]'.format(im), 'tsuanlo.txt.gz']
-            proc = subprocess.run(
-                cmd, stderr=stderr, stdout=outputFile, check=True)
+            proc = subprocess.Popen(
+                cmd, stdout=PIPE, stderr=subprocess.DEVNULL)
+            outs, errs = proc.communicate()
 
+            for linebyte in outs.splitlines():
+                POJ = linebyte.decode('utf-8')
+                # 確保長句也會斷
+                章物件 = 拆文分析器.建立章物件(POJ)
+                # 只拿長句中確實有包含此音的片段
+                for 句物件 in 章物件.內底句:
+                    句型 = 句物件.看型('-', ' ')
+                    if im in 句型:
+                        try:
+                            鬥拍字 = tàuphahjī(句型)
+                        except Exception:
+                            print('tauphahji error, POJ=', 句型, '=')
+                        漢字 = liânKù(鬥拍字['多元書寫'], '漢字')
+                        臺羅 = liânKù(鬥拍字['多元書寫'], '臺羅')
+                        print('句型=', 句型)
+                        print('鬥拍字=', 鬥拍字)
+                        print(句型, file=outputFile)
+                        print(漢字, file=outputFile)
+                        print(臺羅, file=outputFile)
+                        print('', file=outputFile)
+        return
+
+# def concateToGuanSuSia(toGuanArr):
+#     return [i for i in ]
 
 def getThongKePio():
     #
