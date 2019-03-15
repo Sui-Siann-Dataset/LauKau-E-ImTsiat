@@ -399,7 +399,7 @@ Tsit khoo tsa-bóo-gín-á ū-iánn tsiânn liauh kiauh, iōng tsông--ê.
 若已經無大灶的人家，就臨時用磚仔砌一口大烘爐，囥一坩大鼎仝款佇咧煮。
 Nā í-king bô tuā-tsàu ê jîn-ke, tō lîm-sî iōng tsng-á kih tsi̍t kháu tuā hang-lôo, khǹg tsi̍t khann tuā-tiánn kāng-khuán tī-leh tsú.
 
-[kinnh]
+[kinnh, konnh]
 鼾甲ki̍nnh-ko̍nnh叫。
 Huânn kah ki̍nnh-ko̍nnh kiò.
 
@@ -417,47 +417,162 @@ Tsia̍h-tio̍h sng-kiuh-kiuh.
 薑母鴨用的是紅面番鴨。
 Kiunn-bó-ah iōng--ê sī âng-bīn-huan-ah.
 
-[konnh]
 [konn]
-[kooh]
+佇活動中心鼾鼾睏，常常鼾彼款牛咧睏的聲。
+Tī ua̍h-tāng-tiong-sim kônn-kônn-khùn, siông-siông kônn hit-khuán gû teh khùn-ê siann.
+
+[kooh-無]
+過Thài-lóo-kooh了後開始是平地。
+Kuè Thài-lóo-kooh liáu-āu khai-sí sī pênn-tē.
+
 [kuainnh]
+上尾一齣拄著風颱，風透甲戲棚ki̍nnh-kua̍innh叫，雨愈落愈大，我想欲搝阿公來去轉，伊毋走，一直看甲煞才甘願。
+Siōng-bué tsi̍t tshut tú--tio̍h hong-thai, hong thàu kah hì-pênn ki̍nnh-kua̍innh kiò, hōo lú lo̍h lú tuā, guá siūnn-beh giú a-kong lâi-khì tńg, I m̄ tsáu, it-ti̍t khuànn kah suah tsiah kam-guān。
+
 [kuak]
+斟一大碗，做3、4喙kua̍k落去。
+Thîn tsi̍t tuā-uánn, tsò sann, sì tshuì kua̍k--lo̍h-khì.
+
 [kueh]
+大膽賊仔胳胴跤鋏螢幕，冗冗離開網咖。
+Tuā-tánn tsha̍t-á kueh-lang-kha giap îng-bōo, liōng-liōng lī-khui bāng-ka.
+
 [kuih]
+家私頭仔佇喙空一直抐、一直刮，總是毋敢出聲，連醫生問講「會疼袂？」仝款恬恬毋出聲。
+Ke-si-thâu--á tī tshuì-khang it-ti̍t lā, it-ti̍t kueh, tsóng--sī m̄-kánn tshut-siann, liân i-sing mn̄g kóng, "ē thiànn--bē?" kāng-khuán tiām-tiām m̄ tshut-siann.
+
 [kuinn]
+電梯門關倚來。
+Tiān-thui mn̂g kuinn uá--lâi.
+
 [lauh]
+石滑滑不時交落。
+Tsio̍h ku̍t-ku̍t put-sî ka-la̍uh.
+
 [liak]
+一時聽見佇地下室親像有人拖鐵鍊咧行佇酒桶頂lia̍k-lia̍k叫。
+Tsi̍t-sî thiann-kìnn tī tē-hā-sik tshin-tshiūnn ū lâng thua thih-liān teh kiânn tī tsiú-tháng-tíng lia̍k-lia̍k-kiò.
+
 [lia]
+我毋是刁工欲惹阿母受氣。
+Guá m̄-sī thiau-kang beh liá a-bú siūnn-khì.
+
 [liauh]
+到遮天欲絕我的性命liauh。（[了]，臺日）
+Kàu tsia thinn beh tsua̍t guá ê sènn-miā liauh.
+
 [liooh]
+目色鈍閣略仔挩窗liooh。
+Ba̍k-sik tūn koh lio̍h-á thuah-thang liooh.
+
 [lio]
+對食的雞肉、魚肉、米，到用的衛生紙、尿苴仔、衫褲，毋管是二手的抑是全新的，價數真俗。
+Tuì tsia̍h ê ke-bah, hî-bah, bí, kàu īng ê uē-sing-tsuá, liō-tsū-á, sann-khòo, m̄-kuán sī jī-tshiú--ê ia̍h-sī tsuân-sin--ê, kè-siàu tsin-sio̍k.
+
 [liuh]
+伊liu̍h-liu̍h-á越頭看我。（略略仔，甘字典）
+I liu̍h-liu̍h-á ua̍t-thâu khuànn--guá.
+
 [lom]
+小人魚這馬到樹林內lòm塗的所在，遐的中央有一棟厝，彼是用反船淹死的人骨頭所起的。（[lòm土]泥濘ê土。台日）
+Sió jîn hî tsit-má kàu tshiū-nâ-lāi ê lòm-thôo ê sóo-tsāi, hia ê tiong-ng ū tsi̍t tòng tshù, He sī iōng píng-tsûn im--sí ê lâng-kut-thâu sóo khí--ê.
+
 [lop]
+定定lop去田底落去。（陷 ,凹 ,踏 ,低窪	Maryknoll）
+Tiānn-tiānn lop khì tshân té lo̍h-khì.
+
 [luat]
+算講這揀頭對是一項優勝劣敗的競爭。
+Sǹg-kóng tse kíng thâu-tuì tse isī tsi̍t hāng iu-sìng lua̍t-pāi ê kìng-tsing.
+
 [mauh]
+生態環境破壞甲糜糜卯卯。
+Sing-thài-khuân-kíng phò-huāi kah mi-mi-mauh-mauh.
+
 [miau]
+利用伊的歌聲佮絃仔美妙的旋律，共平安和幸福傳達出去。
+Lī-iōng i ê kua-siann kah hiân-á bí-miāu ê suân-lu̍t, hā pîng-an ham hīng-hok thuân-ta̍t--tshut-khì.
+
 [mngh]
+物件捾予好喔！
+Mn̍gh-kiānn kuānn hōo hó--ooh!
+
 [moh]
+因為彼个青年自細捌染著腦 mo̍h 炎，真危險閣好起來，身體無勇。
+In-uī hit ê tshing-liân tsū-sè bat jiám-tio̍h náu-mo̍h-iām, tsin guî-hiám koh hó--khí-lâi, sin-thé bô ióng.
+
 [muai]
+雙跤踏著水池下跤路糊糜。
+Siang-kha ta̍h-tio̍h tsuí-tî ē-kha lōo-kôo-muâi.
+
 [nah]
+尻川鬥爍爁。
+Kha-tshuinn tàu sih-nah.
+
 [naih]
+袂堪得按呢激氣，老師的手垂落來，胸坎浮咧naih咧。
+Bē-kham-tit án-ni kik-khì, lāu-su ê tshiú suî--lo̍h-lâi, hing-khám phû--leh naih--leh.
+
 [nauh]
+字喃的發展佮臺灣的歌仔冊的臺語漢字用字的方法類似。
+jī-nauh ê huat-tián kah Tâi-uân ê kua-á-tsheh ê Tâi-gí hàn-jī iōng-jī ê hong-huat luī-sū.
+
 [ngai]
+我有寡無爽快佮礙虐。
+Guá ū kuá bô-sóng-khuài kah ngāi-gio̍h.
+
 [ngauh]
+欲嫁著趁鮮,18-22歲最當時。毋免傷𠢕揀，豬仔過槽芳，到時袂落nga̍uh你就知代。([落nga̍uh]	親睦；和睦。台日)
+Beh kè tio̍h thàn tshinn, tsa̍p-peh kàu jī-tsa̍p-jī huè tsuè tong-sî. M̄-bián siunn gâu kíng, ti-á kuè tsô phang, kàu-sî bē lo̍h-nga̍uh lí tō tsai tāi.
+
 [ngau]
+漚梨仔假蘋果，樹薯假做蓮藕粉販賣。
+Àu lâi-á ké phōng-kó, tshiū-tsî ké-tsò liân-ngāu-hún huàn-bē.
+
 [ngeh]
+動物保護法規定禁止使用掠獸夾。
+Tōng-bu̍t pó-hōo huat kui-tīng kìm-tsí sú-iōng lia̍h-siù-ngeh.
+
 [ngh]
+順仔inn-inn-n̍gh-n̍gh講袂出喙。
+Sūn--á inn-inn-n̍gh-n̍gh kóng bē tshut tshuì.
+
 [ngiah]
+聽著老師一開喙攏是台語，甚至點𪜶的名嘛用台語，大部份學生攏感覺真gông-ngia̍h。大概經過半學期，就漸漸會當接受這个無奈的現實。（[昂愕]	惘然；驚一跳soah m̄知beh按怎才好。台日）
+Thiann-tio̍h lāu-su tsi̍t-khui-tshuì lóng sī Tâi-gí, sīm-tsì tiám in ê miâ mā īng Tâi-gí, tuā-pōo-hūn ha̍k-sing lóng kám-kak tsin gông-ngia̍h. Tāi-khài king-kuè puànn ha̍k-kî, tō tsiām-tsiām ē-tàng tsiap-siū tsit ê bô-nāi ê hiān-si̍t.
+
 [ngia]
+「謝鹽祭」按良工佮新厝仔社區民眾，對卿雲廟迎請李府王爺，前往鹽埕起頭鼓。
+"Siā-iâm-tsè" àn liông-kang kah Sin-tshù-á siā-khu bîn-tsiòng, tuì Khing-hûn-biō ngiâ-tshiánn Lí-hú-ông-iâ, tsiân-óng Iâm-tiânn khí thâu-kóo.
+
 [ngiauh]
-[ngih]
+疫情蟯蟯動，門診佮急診的新流感的病人加較濟。
+I̍k-tsîng ngia̍uh-ngia̍uh-tāng, mn̂g-tsín kah kip-tsín ê pēnn-lâng ke khah tsuē.
+
+[ngih-揣無]
+
 [ngi]
+ngi̍h-bu̍h-ngi̍h-ngia̍uh聽攏無。（嘰哩咕嚕地不知說哪國話。臺日）
+Ngi̍h-bu̍h-ngi̍h-ngia̍uh thiann lóng bô.
+
 [ngiuh]
+本成是規片田園，這馬煞平平平，黃ngiuh-ngiuh，全予漉糊糜仔坉起來。
+Āu-piah, pún-tsiânn sı̄ kui phiàn tshân-hn̂g, tsit-má suah pênn-pênn-pênn, n̂g-ngiuh-ngiuh, tsuân hōo lo̍k-kôo-muâi-á thūn--khí-lâi.
+
 [ngiu]
+綴著音樂扭腰顯尻川心適笑詼。
+Tuè-tio̍h im-ga̍k ngiú io hián kha-tshng sim-sik tshiò-khue.
+
 [ngueh]
+伊的卵親像豆莢，一莢定著三十五粒。
+I ê nn̄g tshin-tshiūnn tāu-ngueh, tsi̍t ngueh tiānn-tio̍h sann-tsa̍p-gōo lia̍p.
+
 [niah]
-[nioo]
+雄雄有一个人共伊搖精神，伊目睭niah金，看著一个面腔足䆀的查埔人誠大聲共喝。
+Hiông-hiông ū tsi̍t ê lâng kā i iô tsing-sîn, I ba̍k-tsiu niah kim, khuànn-tio̍h tsi̍t ê bīn-tshiunn tsiok bái ê tsa-poo-lâng tsiânn tuā-siann kā huah.
+
+[nioo-無合法的音]
+
 [nio]
 [nngh]
 [noh]
