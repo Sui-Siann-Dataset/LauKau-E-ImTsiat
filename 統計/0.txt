@@ -1,10 +1,10 @@
-[ainn]
+﻿[ainn]
 伊想欲偝阿媽去予醫生看。
-I siūnn-beh āinn a-má khì hōo-i-sing-khuànn.
+I siūnn-beh āinn a-má khì hōo i-sing khuànn.
 
 [annh]
 有的人annh這个家庭無法度生活矣乎，繳袂起學費矣乎，啊結果政府你開遐爾濟錢。
-Ū-ê lâng--annh tsit ê ka-tîng bô-huat-tōo sing-ua̍h--ah--honnh, kiáu bē  khí ha̍k-huì--ah--honnh, ah kiat-kó tsìng-hú lí khai hiah-nī tsē tsînn.
+Ū-ê lâng--annh tsit ê ka-tîng bô-huat-tōo sing-ua̍h--ah--honnh, kiáu bē khí ha̍k-huì--ah--honnh, ah kiat-kó tsìng-hú lí khai hiah-nī tsē tsînn.
 
 [aunn]
 狗仔àunn-àunn叫。
@@ -19,8 +19,9 @@ Lī-thâu lóng hōo khòng-tsè thong-lōo ê tshài-thâng ba̍uh-ba̍uh--khì
 Lán piànn-miā tsoh-sit, hó-khang suah in teh báu?
 
 [biat]
-阿扁仔hông拘押，主要是防止串供佮掩滅證據。
-A-pínn--á hông khu-ah, tsú-iàu sī hông-tsí tshuàn-king kah iám-bia̍t tsìng-kì.
+阿扁仔hông拘押，主要是防止串供佮湮滅證據。
+A-pínn--á hông khu-ah, tsú-iàu sī hông-tsí tshuàn-king kah ian-bia̍t tsìng-kì.
+掩滅改湮滅 iám改ian
 
 [bik]
 趙光明做財神菩薩，林默仔姊做天上聖母。
@@ -28,11 +29,12 @@ Tiō Kong-bîng tsò tsâi-sîn phôo-sat, Lîm Bi̍k-á-tsé tsò Thian-siōng 
 
 [biu]
 這也是審判司應該辦的罪，因為我按呢是背謬佇頂面的上帝。
-Tse iā-sī sím-phuànn-si ing-kai pān ê tsuē, in-uī guá án-ne sī puē-biū tī tíng-bīn ê siōng-tè.
+Tse iā sī sím-phuànn-si ing-kai pān ê tsuē, in-uī guá án-ne sī puē-biū tī tíng-bīn ê siōng-tè.
 
 [boh]
 莫得好色邪淫，莫得相爭怨妒。
 Bo̍h tit hònn-sik siâ-îm, bo̍h tit sann-tsinn uàn-tòo.
+莫boh用在姓氏音，例句要調整
 
 [buaih]
 我講buaih就buaih啦。
@@ -40,15 +42,16 @@ Guá kóng buaih tō buaih--lah.
 
 [buai]
 我一屑仔都bua̋i相信遮的出題委員的操守。
-Guá tsi̍t-sut-á to buài siong-sìn tsiah-ê tshut-tê uí-uân ê tshau-siú.
+Guá tsi̍t-sut-á to bua̋i siong-sìn tsia-ê tshut-tê uí-uân ê tshau-siú.
 
-[bua]
+[bua] 
 提著雕刻刀，一刀一刀雕刻慢慢磨光。
 The̍h-tio̍h tiau-khik to, tsi̍t-to tsi̍t-to tiau-khik bān-bān buâ-kng.
+句子有點怪
 
 [bueh]
 查某囡仔想欲捾水沃花。
-Tsa-bóo-gín-á siūnn-bueh kuānn-tsuí ak-hue.
+Tsa-bóo gín-á siūnn-bueh kuānn-tsuí ak-hue.
 
 一雙襪仔。
 Tsi̍t siang bue̍h-á.
@@ -57,8 +60,9 @@ Tsi̍t siang bue̍h-á.
 I kóng bueh.
 
 [bui]
-我的目睭猶沙微沙微，未洗面就趕緊去急拜訪。
-Guá ê ba̍k-tsiu iáu sa-bui-sa-bui, buē sé-bīn tō kuánn-kín khì kip pài-hóng.
+我的目睭猶沙微沙微，未洗面就趕緊去拜訪。
+Guá ê ba̍k-tsiu iáu sa-bui-sa-bui, buē sé-bīn tō kuánn-kín khì pài-hóng.
+刪除急字
 
 [ennh]
 咱遮爾靠俗，毋才直接叫你ennh，今莫受氣啦。
@@ -73,15 +77,17 @@ Thiann lí teh kóng bàng-gah uē.
 A-koo kah koo-tiūnn khuànn tsi̍t-ē gāng-gāng.
 
 [gat]
-Gat-lá油閣叫做番仔油，是較早散兇人暝時點火照光的油料。
-Gat-lá iû koh kiò-tsò huan-á-iû, sī khah-tsá sàn-hiong-lâng mê-sî tiám-hué tsiò-kng ê iû-liāu. 
+Gat-lá油閣叫做番仔油，是較早散凶人暝時點火照光的油料。
+Gat-lá-iû koh kiò-tsò huan-á-iû, sī khah-tsá sàn-hiong-lâng mê--sî tiám-hué tsiò-kng ê iû-liāu. 
 
 一支闊喙的玻璃藥水罐仔，罐喙橐一kâi會當穿棉紗帶的燈芯座，gat-lá油添滇，就會使得點火炤光。
-Tsi̍t ki khuah-tshuì ê po-lê io̍h-tsuí kuàn-á, kuàn-tshuì lop tsi̍t kâi ē-tàng tshng mî-se tài ê ting-sim tsō, gat-lá-iû thiam tīnn, tō ē-sái-tit tiám-hué tshiō-kng.
+Tsi̍t ki khuah-tshuì ê po-lê io̍h-tsuí kuàn-á, kuàn-tshuì lop tsi̍t kâi ē-tàng tshng mî-se-tuà ê ting-sim-tsō, gat-lá-iû thiam tīnn, tō ē-sái-tit tiám-hué tshiō-kng.
+帶音改tua3
 
 [giak]
 一支嘴，若破雞筅咧，不時gia̍k-gia̍k叫，一日食飽，就是佮厝邊坐，講新婦不孝，囝不孝。
-Tsi̍t ki tshuì, ná phuà-ke-tshíng--leh, put-sî gia̍k-gia̍k-kiò, tsi̍t ji̍t tsia̍h-pá, tsiū-sī kah tshù-pinn tsē, kóng sim-pū put-hàu, kiánn put-hàu.
+Tsi̍t ki tshuì, ná phuà-ke-tshíng--leh, put-sî gia̍k-gia̍k-kiò, tsi̍t ji̍t tsia̍h-pá, tō sī kah tshù-pinn tsē, kóng sim-pū put-hàu, kiánn put-hàu.
+我是講kiak8-kiak8
 
 [giat]
 講一句無輸贏的，惡妻孽子無可治。
@@ -90,6 +96,7 @@ Kóng tsi̍t kù bô su-iânn--ê, ok-tshe gia̍t-tsú bû khó tī.
 [gih]
 砌（gih）磚仔師傅buē是𠢕，下面彼个小工才是厲害。一塊磚、一𣁳紅毛塗，攏送準準。
 Gih tsng-á sai-hū buē sī gâu, ē-bīn hit ê sió-kang tsiah-sī lī-hāi. Tsi̍t tè tsng, tsi̍t khat âng-mn̂g-thôo, lóng sàng-tsún-tsún.
+buē是𠢕?
 
 [gioh]
 和序細講咱家己的話都會礙虐。
@@ -117,7 +124,7 @@ Hó-sim ê go̍k-hî sian-sinn! Lí sī tī sè-kan tē-it hó-sim ê go̍k-hî.
 
 [gooh]
 下晡去大湖挽i-tshí-gooh，欲暗仔去泰安洗溫泉，連遊覽車錢算在內，極加才九百箍niâ，真正是有食閣有掠！
-Ē-poo khì Tuā-ôo bán i-tshí-gooh, beh-àm-á khì Thài-an sé un-tsuânn,  liân iû-lám-tshia-tsînn sǹg tsāi-lāi, ki̍k-ke tsiah káu-pah-khoo niâ,  tsin-tsiànn sī ū tsia̍h koh ū lia̍h!
+Ē-poo khì Tuā-ôo bán i-tshí-gooh, beh-àm-á khì Thài-an sé un-tsuânn, liân iû-lám-tshia-tsînn sǹg tsāi-lāi, ki̍k-ke tsiah káu-pah khoo niâ, tsin-tsiànn sī ū tsia̍h koh ū lia̍h!
 
 [gue]
 員外隨時轉面色：「我無佮你咧唱曲，話講出喙就是話。」
@@ -128,8 +135,9 @@ Guân-guē suî-sî tńg bīn-sik, "guá bô kah lí teh tshiùnn-khik, uē kón
 I tsí-ū uàn-thàn Sòng--ê ài gut-tshòo koh tshuì bē tinn, sui-jiân ài--i, m̄-koh sī kā i tòng-tsò tsa-bóo-kiánn án-ne thiànn-sioh.
 
 [haunnh]
-你彼芋仔應當是棉棉鬆鬆，哪會食著澩澩？
+你彼芋仔應當是綿綿鬆鬆，哪會食著澩澩？
 Lí he ōo-á ing-tong sī mî-mî sang-sang, ná-ē tsia̍h-tio̍h ha̍unnh-ha̍unnh?
+棉棉改綿綿
 
 [haunn]
 彼个阿兄蓋hàunn跋筊。
@@ -138,6 +146,7 @@ Hit ê a-hiann kài hàunn pua̍h-kiáu.
 [hiauh]
 路頂無細膩去踢著石仔，伊的跤指甲紲藃起來。
 Lōo-tíng bô-sè-jī khì that-tio̍h tsio̍h-á, i ê kha-tsńg-kah suà hiauh--khí-lâi.
+路頂不順，改路lin3較通
 
 [hih]
 講話著正經，毋通hih-hih笑。
@@ -882,4 +891,5 @@ In-uī kin-nî liōng tsió, Phênn-ôo ê phah-bē-tshī-tiûnn ta̍k-ke sio-ts
 [uh]
 [uih]
 [uinn]
+
 
