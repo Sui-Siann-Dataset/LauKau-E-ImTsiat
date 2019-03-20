@@ -21,7 +21,6 @@ Lán piànn-miā tsoh-sit, hó-khang suah in teh báu?
 [biat]
 阿扁仔hông拘押，主要是防止串供佮湮滅證據。
 A-pínn--á hông khu-ah, tsú-iàu sī hông-tsí tshuàn-king kah ian-bia̍t tsìng-kì.
-[NP]掩滅改湮滅 iám改ian
 
 [bik]
 趙光明做財神菩薩，林默仔姊做天上聖母。
@@ -32,9 +31,8 @@ Tiō Kong-bîng tsò tsâi-sîn phôo-sat, Lîm Bi̍k-á-tsé tsò Thian-siōng 
 Tse iā sī sím-phuànn-si ing-kai pān ê tsuē, in-uī guá án-ne sī puē-biū tī tíng-bīn ê siōng-tè.
 
 [boh]
-莫得好色邪淫，莫得相爭怨妒。
-Bo̍h tit hònn-sik siâ-îm, bo̍h tit sann-tsinn uàn-tòo.
-[NP]莫boh用在姓氏音，例句要調整
+跋餅著準備，代先唱(tshiàng)規矩。眾人聽分明，事後莫(bo̍h)纓纏。
+pua̍h-piánn tio̍h tsún-pī, tāi-sing tshiàng kui-kí. Tsìng-lâng thiann hun-bîng, sū-āu bo̍h înn-tînn.
 
 [buaih]
 我講buaih就buaih啦。
@@ -45,9 +43,8 @@ Guá kóng buaih tō buaih--lah.
 Guá tsi̍t-sut-á to bua̋i siong-sìn tsia-ê tshut-tê uí-uân ê tshau-siú.
 
 [bua] 
-提著雕刻刀，一刀一刀雕刻慢慢磨光。
-The̍h-tio̍h tiau-khik to, tsi̍t-to tsi̍t-to tiau-khik bān-bān buâ-kng.
-[NP]句子有點怪，不順
+毋甘某著癌受折磨，尪𤆬某跳海行短路。
+M̄-kam bóo tio̍h-gâm siū-tsiat-buâ, ang tshuā bóo thiàu-hái kiânn-té-lōo.
 
 [bueh]
 查某囡仔想欲捾水沃花。
@@ -62,7 +59,6 @@ I kóng bueh.
 [bui]
 我的目睭猶沙微沙微，未洗面就趕緊去拜訪。
 Guá ê ba̍k-tsiu iáu sa-bui-sa-bui, buē sé-bīn tō kuánn-kín khì pài-hóng.
-[NP]刪除急字
 
 [ennh]
 咱遮爾靠俗，毋才直接叫你ennh，今莫受氣啦。
@@ -82,12 +78,8 @@ Gat-lá-iû koh kiò-tsò huan-á-iû, sī khah-tsá sàn-hiong-lâng mê--sî t
 
 一支闊喙的玻璃藥水罐仔，罐喙橐一kâi會當穿棉紗帶的燈芯座，gat-lá油添滇，就會使得點火炤光。
 Tsi̍t ki khuah-tshuì ê po-lê io̍h-tsuí kuàn-á, kuàn-tshuì lop tsi̍t kâi ē-tàng tshng mî-se-tuà ê ting-sim-tsō, gat-lá-iû thiam tīnn, tō ē-sái-tit tiám-hué tshiō-kng.
-[NP]帶音改tua3
 
-[giak]
-一支嘴，若破雞筅咧，不時gia̍k-gia̍k叫，一日食飽，就是佮厝邊坐，講新婦不孝，囝不孝。
-Tsi̍t ki tshuì, ná phuà-ke-tshíng--leh, put-sî gia̍k-gia̍k-kiò, tsi̍t ji̍t tsia̍h-pá, tō sī kah tshù-pinn tsē, kóng sim-pū put-hàu, kiánn put-hàu.
-[NP]我是講kiak8-kiak8
+[giak-無例句]
 
 [giat]
 講一句無輸贏的，惡妻孽子無可治。
@@ -109,19 +101,17 @@ Biō-sī kah sìn-gióng ū khoo-uá siā-khu ê kong-iōng.
 [gio]
 每桌攏有十路菜色，包含出名的虱目魚五柳居、炊粉蟯(giô)蒜頭、煠白醋蝦仔等等。
 Muí toh lóng ū tsa̍p-lōo tshài-sik, pau-hâm tshut-miâ ê sat-ba̍k-hî ngóo-liú-ki, tshue hún-giô suàn-thâu, sa̍h pe̍h-tshòo hê-á tíng-tíng.
-[NP]字邊仔加音較好念
 
 [gip]
-看起來情況岌岌可危。
+看起來情況岌岌（gi̍p-gi̍p）可危。
 Khuànn--khí-lâi tsîng-hóng gi̍p-gi̍p-khó-guî.
 
 [giuh]
-萬物齊起，足濟民眾生活散giuh-giuh。
-Bān-bu̍t-tsiâu-khí, tsiok tsē bîn-tsiòng sing-ua̍h sàn-giuh-giuh.
-[NP]補充：柳丁酸giuh-giuh
+柳丁酸giuh-giuh。
+Liú-ting sng-giuh-giuh.
 
 [gok]
-好心的鱷魚先生！你是佇世間第一好心的鱷魚。
+好心的鱷魚（gok-hî）先生！你是佇世間第一好心的鱷魚。
 Hó-sim ê go̍k-hî sian-sinn! Lí sī tī sè-kan tē-it hó-sim ê go̍k-hî.
 
 [gooh]
@@ -139,7 +129,6 @@ I tsí-ū uàn-thàn Sòng--ê ài gut-tshòo koh tshuì bē tinn, sui-jiân ài
 [haunnh]
 你彼芋仔應當是綿綿鬆鬆，哪會食著澩(ha̍unnh)澩？
 Lí he ōo-á ing-tong sī mî-mî sang-sang, ná-ē tsia̍h-tio̍h ha̍unnh-ha̍unnh?
-[NP]棉棉改綿綿，漢字邊仔加音好唸
 
 [haunn]
 彼个阿兄蓋hàunn跋筊。
@@ -147,8 +136,7 @@ Hit ê a-hiann kài hàunn pua̍h-kiáu.
 
 [hiauh]
 路lìn無細膩去踢著石仔，伊的跤指甲紲藃起來。
-Lōo-tíng bô-sè-jī khì that-tio̍h tsio̍h-á, i ê kha-tsńg-kah suà hiauh--khí-lâi.
-[NP]路頂不順，改路lin3較通
+Lōo--lìn bô-sè-jī khì that-tio̍h tsio̍h-á, i ê kha-tsńg-kah suà hiauh--khí-lâi.
 
 [hih]
 講話著正經，毋通hih-hih笑。
@@ -195,10 +183,7 @@ Sio̍k-gí kóng hm̂-lâng-tshuì, hôo-luì-luì.
 牌仔進前𫞼佇鶴岡口路邊，因為迴轉道工程猶佇咧施工，予人徙一邊。
 Pâi-á tsìn-tsîng tshāi tī Ho̍h-kong-kháu lōo-pinn, in-uī huê-tńg-tō kang-tîng iáu tī-leh si-kang, hōo lâng suá tsi̍t-pinn.
 
-[hom]
-這隻狗仔叫汪汪，伊真𠢕顧家。                                    
-Tsit tsiah káu-á kiò Hóm-hóm, i tsin gâu kòo-ke.
-[NP]這...我無法判斷hom2
+[hom-無]
 
 [hop]
 伊用最後的氣力欲來倒欱。
@@ -215,9 +200,8 @@ Kha-pōo mā tuè-leh tāng-huainnh-huainnh.
 Phīnn ī-hiong ê sng-tshó, sim lia̍h-thán-huênn pàng hōo tshoo, tsóng ē ū hit kang, tsiong lí phō ji̍p guá ê bāng.
 
 [huih]
-你手䘼撆--起來，順紲共你磅血壓。（*原文是寫le̍k--起來，m̄-koh我揣無這个動詞）
-Lí tshiú-ńg pih--khí-lâi, sūn-suà kā lí pōng huih-ap.
-[NP]有li̍k，臺日大辭典「(3)kā手袂等捲起來。」，用撆也可以
+你手䘼li̍k--起來，順紲共你磅血壓。
+Lí tshiú-ńg li̍k--khí-lâi, sūn-suà kā lí pōng huih-ap.
 
 [hut]
 若是走江湖的掛咧，就是通鼓。若是乞食掛咧，就是唪鼓（phiāng-kóo）。這是「仝款無仝師傅」，乞食毋是好名，唪鼓嘛毋是好聲，絕對毋通拂毋著去。
@@ -230,7 +214,6 @@ Tso̍h-ji̍t tsiân-óng Tâi-uân bûn-ha̍k tsi hū Ia̍p Tsio̍h-tô ê lîng
 [iaunn]
 貓仔真古錐一直喓(iaunn)喓叫。
 Niau-á tsin kóo-tsui it-ti̍t iaunn-iaunn kiò.
-[NP]漢字邊仔標音較好唸
 
 [ih]
 寫「甲伊物」，欲叫人唸「kah i bo̍h」，毋但是咱現代台語人僫讀，連提會文堂版來改的編者嘛花花，這種用字法傷過ih-uat，實在不可取。
@@ -251,9 +234,9 @@ Lîm tiúnn-ló tshut-lâi liáu-āu, ta̍k-ke ip-lé, tō hun pin tsú tsē--lo
 Tsiap--leh sī kám-jiám ê nî-huè, Bí-kok ê kám-jiám-tsiá lóng í siàu-liân-lâng tsiàm to-sòo.
 
 [jiap]
-一个錢拍廿四个結。
-Tsi̍t ê tsînn phah jia̍p-sì ê kat.
-[NP]取樣問三个人攏講二四个結；合音jia̍p-sì，可能沒這用法。jia̍p補充:廿一世紀
+我凊彩掀，對看一廿字[it-jia̍p jī]。望欲有當看著舊版失察覺，新版知影通改正[ké-chiànn]个所在。
+Guá tshìn-tshái hian, tuì-khuànn it-jia̍p jī. Bāng-beh ū-tàng khuànn-tio̍h kū pán sit tshat-kak, sin pán tsai-iánn thang ké-tsiànn ê sóo-tsāi.
+（it-jia̍p：tú好只有二十。臺日）
 
 [jik]
 開始佮死神走相逐。
@@ -290,31 +273,27 @@ Jà-juh ê kin sī tī Hui-tsiu. Tsit ê im-ga̍k ê tsiat-tsàu kah i ê tsing-
 [kainn]
 總是我有聽見走到巷仔頭的時有喈(kainn)一聲。
 Tsóng--sī guá ū thiann-kìnn tsáu-kàu hāng-á-thâu ê sî ū kainn--tsi̍t-siann.
-[NP]巷頭不順，改巷仔頭
 
 [kenn]
 心梗窒咧發作的時，有一半會引發心律不整無張持死。
 Sim-kénn-that teh huat-tsok ê sî, ū tsi̍t-puànn ē ín-huat sim-lu̍t-put-tsíng bô-tiunn-tî sí.
 
-[khaih-無確定]
-#抑無我khaih有通煮飯呢？
-#Ia̍h-bô guá khaih ū-thang tsú-pn̄g--neh?
-[NP]可能有，呔會thai3 e7近義詞「盍會khah e7」合音成的
+[khaih]
+抑無我khaih有通煮飯呢？
+Ia̍h-bô guá khaih ū-thang tsú-pn̄g--neh?
 
 [khainn]
 對伊的頭殼敱(khainn)落去。
 Uì i ê thâu-khak kháinn--lo̍h-khì.
-[NP]字邊仔標音較好唸
 
 [khat]
 那食那看阿公𣁳一𣁳麵粉糊，現煎做麵皮。
 Ná tsia̍h ná khuànn a-kong khat tsi̍t khat mī-hún kôo hiān tsian tsò mī-phuê.
 
 [khauh]
-喙脣kha̍uh-kha̍uh-hòo，就講：「我知伊毋按呢生，的確毋，的確無欲去你遐討錢。」（hòo，震顫，Embree辭典）
-Tshuì-tûn kha̍uh-kha̍uh-hòo, tō kóng,"guá tsai i m̄ án-ni sinn, tik-khak m̄, tik-khak bô beh-khì lí hia thó-tsînn."
-[NP]kha̍uh-kha̍uh-hòo沒語感無法判斷
-
+人古錐毋過蓋皮，又閣愛kha̍uh-kha̍uh唸。
+lâng kóo-tsui m̄-koh kài phî, iū-koh ài kha̍uh-kha̍uh-liām.
+（kha̍uh-kha̍uh-liām：唸不停，TJ小辭典&Maryknoll。）
 
 [khaunnh-無]
 
@@ -343,9 +322,8 @@ Guá m̄ sī khiàng-kha tsa-bóo, guá kan-tann sī tsi̍t ê gōng tsa-bóo-l�
 [khiann-無]
 
 [khiap]
-有身八個月掠做祕結，護理科學生生嬰仔拍怯。
-Ū-sin peh kò gue̍h lia̍h-tsò pì-kiat, hōo-lí-kho ha̍k-sing senn inn-á phah-khiap.
-[NP]拍怯是？
+「老母無嫌囝㾀勢」，老母無咧嫌囝歹看的啦！
+"Lāu-bú bô hiâm kiánn khiap-sì", lāu-bú bô teh hiâm kiánn pháinn-khuànn--ê--lah！
 
 [khiat]
 中橫便道沿路坎坎坷坷，路草險惡往往行咧停咧。
@@ -354,7 +332,6 @@ Tiong-huâinn piān-tō iân-lōo khám-khám-khia̍t-khia̍t, lōo-tsháu hiám
 [khiauh]
 伊的身軀硬khiauh-khiauh。
 I ê sin-khu ngē-khiauh-khiauh.
-[NP]ngē改漢字
 
 [khiaunnh-無]
 
@@ -375,7 +352,6 @@ Liông io̍h khóo khió tī pēnn-tsìng.
 [khiuh]
 春枝滿腹的哀怨，khiu̍h-khiu̍h顫出聲來：「若莫予阮母仔強𤆬轉去，我猶會帶戲班，我做小旦，真𠢕唱哭調仔呢。」
 Tshun-ki muá-pak ê ai-uàn, khiu̍h-khiu̍h-tsùn tshut-siann--lâi, "nā mài hōo gún bú--á kiông tshuā tńg--khì, guá iáu-ē tuà hì-pan, guá tsò sió-tuànn, tsin gâu tshiùnn khàu-tiāu-á--neh."
-[NP]帶tài改tuà
 
 [khiunn]
 後來廖瓊枝靠獨特的「苦旦哭腔」，佇歌仔戲沓沓仔拍響名號。
@@ -390,9 +366,8 @@ Guā-kháu sī tsiâ teh khngh-khngh-háu?
 Khó-liân bó-kiánn kho̍h-kho̍h-tán, tshun khì tshiu tsīn put ti hân.
 
 [khonn]
-人若佇伊的面頭前咧講較早“外省仔”按怎拄按怎可惡，隨想著阮阿公嘛是“外省仔”就恬去矣。
-Lâng nā tī i ê bīn-thâu-tsîng teh kóng khah-tsá “guā-síng-á” án-nuá tú án-nuá khónn-ònn, suî siūnn-tio̍h guán a-kong mā sī " guā-síng-á", tō tiām--khì--ah.
-[NP]按怎按怎 補做 按怎「拄」按怎
+人若佇伊的面頭前咧講，較早“外省仔”按怎拄按怎可惡，隨想著阮阿公嘛是“外省仔”，就恬去矣。
+Lâng nā tī i ê bīn-thâu-tsîng teh kóng, khah-tsá “guā-síng-á” án-nuá tú án-nuá khónn-ònn, suî siūnn-tio̍h guán a-kong mā sī " guā-síng-á", tō tiām--khì--ah.
 
 [khuainnh]
 拍鐵店頭家欲娶新婦真歡喜，拜託人寫門聯。伊講，共我寫“若無恁爸早時的khi̍h-kho̍k-khia̍k，哪有今仔日的la̍k-ta̍k-khua̍innh。”
@@ -450,8 +425,7 @@ Kuè Thài-lóo-kooh liáu-āu khai-sí sī pênn-tē.
 
 [kuainnh]
 上尾一齣拄著風颱，風透甲戲棚ki̍nnh-kua̍innh叫，雨愈落愈大，我想欲搝阿公來轉，伊毋走，一直看甲煞才甘願。
-Siōng-bué tsi̍t tshut tú--tio̍h hong-thai, hong thàu kah hì-pênn ki̍nnh-kua̍innh kiò, hōo lú lo̍h lú tuā, guá siūnn-beh giú a-kong lâi tńg, I m̄ tsáu, it-ti̍t khuànn kah suah tsiah kam-guān。
-[NP]來去轉 改 來轉
+Siōng-bué tsi̍t tshut tú--tio̍h hong-thai, hong thàu kah hì-pênn ki̍nnh-kua̍innh kiò, hōo lú lo̍h lú tuā, guá siūnn-beh giú a-kong lâi tńg, I m̄ tsáu, it-ti̍t khuànn kah suah tsiah kam-guān.
 
 [kuak]
 斟一大碗，做三、四喙kua̍k落去。
@@ -502,14 +476,14 @@ I liu̍h-liu̍h-á ua̍t-thâu khuànn--guá.
 Sió jîn hî tsit-má kàu tshiū-nâ-lāi lòm-thôo ê sóo-tsāi, hia ê tiong-ng ū tsi̍t tòng tshù, he sī iōng píng-tsûn im--sí ê lâng-kut-thâu sóo khí--ê.
 
 [lop]
-定定lop落去田底。（陷 ,凹 ,踏 ,低窪	Maryknoll）
-Tiānn-tiānn lop lo̍h-khì tshân-té .
-[NP]刪去，將落去提到lop後，語意較順
+定定lop落去田底。
+Tiānn-tiānn lop lo̍h-khì tshân-té.
+（lop：陷、凹、踏、低窪。Maryknoll）
 
 [luat]
-算講這揀頭對是一項優勝劣敗的競爭。
-Sǹg-kóng tse kíng thâu-tuì tse isī tsi̍t hāng iu-sìng lua̍t-pāi ê kìng-tsing.
-[NP]看無意思，臺羅字數無符合，愛check
+算講這「揀頭對」是一項優勝劣敗的競爭。
+Sǹg-kóng tse "kíng thâu-tuì" is tsi̍t hāng iu-sìng lua̍t-pāi ê kìng-tsing.
+（頭對：配偶。臺日。）
 
 [mauh]
 生態環境破壞甲糜糜卯卯。
@@ -523,10 +497,9 @@ Lī-iōng i ê kua-siann kah hiân-á bí-miāu ê suân-lu̍t, hā pîng-an ham
 物件捾予好喔！
 Mn̍gh-kiānn kuānn hōo hó--ooh!
 
-[moh]
-因為彼个青年自細捌染著腦 mo̍h 炎，真危險閣好起來，身體無勇。
-In-uī hit ê tshing-liân tsū-sè bat jiám-tio̍h náu-mo̍h-iām, tsin guî-hiám koh hó--khí-lâi, sin-thé bô ióng.
-[NP]腦膜炎是mo̍oh
+[mooh]
+因為彼个青年自細捌染著腦膜炎，真危險閣好起來，身體無勇。
+In-uī hit ê tshing-liân tsū-sè bat jiám-tio̍h náu-mo̍oh-iām, tsin guî-hiám koh hó--khí-lâi, sin-thé bô ióng.
 
 [muai]
 雙跤踏著水池下跤路糊糜。
@@ -541,17 +514,17 @@ Kha-tshuinn tàu sih-nah.
 Bē-kham-tit án-ni kik-khì, lāu-su ê tshiú suî--lo̍h-lâi, hing-khám phû--leh naih--leh.
 
 [nauh]
-字喃的發展佮臺灣的歌仔冊的臺語漢字用字的方法類似。
-jī-nauh ê huat-tián kah Tâi-uân ê kua-á-tsheh ê Tâi-gí hàn-jī iōng-jī ê hong-huat luī-sū.
-[NP]喃nauh的音出處？字喃是專有名詞，跟nauh形容喃喃自語應該不一樣
+遮的騙家己騙過手，閣嘛會喃(nauh)一聲「無用台語講就是袂鬥搭」，使(sái)恁鬼咧。
+Tsia--ê phiàn ka-kī phiàn kuè-tshiú. Koh mā-ē nauh tsi̍t siann "bô iōng Tâi-gí kóng tō sī bē tàu-tah", sái lín kuí--leh.
 
 [ngai]
 我有寡無爽快佮礙虐。
 Guá ū kuá bô-sóng-khuài kah ngāi-gio̍h.
 
 [ngauh]
-欲嫁著趁鮮,18-22歲最當時。毋免傷𠢕揀，豬仔過槽芳，到時袂落nga̍uh你就知代。([落nga̍uh]	親睦；和睦。台日)
+欲嫁著趁鮮，18-22歲最當時。毋免傷𠢕揀，豬仔過槽芳，到時袂落nga̍uh你就知代。
 Beh kè tio̍h thàn tshinn, tsa̍p-peh kàu jī-tsa̍p-jī huè tsuè tong-sî. M̄-bián siunn gâu kíng, ti-á kuè tsô phang, kàu-sî bē lo̍h-nga̍uh lí tō tsai tāi.
+(落nga̍uh：親睦、和睦。臺日)
 
 [ngau]
 漚梨仔假蘋果，樹薯假做蓮藕粉販賣。
@@ -586,7 +559,6 @@ Ngi̍h-bu̍h-ngi̍h-ngia̍uh thiann lóng bô.
 [ngiuh]
 本成是規片田園，這馬煞平平平，黃ngiuh-ngiuh，全予漉糊糜仔坉起來。
 Pún-tsiânn sı̄ kui phiàn tshân-hn̂g, tsit-má suah pênn-pênn-pênn, n̂g-ngiuh-ngiuh, tsuân hōo lo̍k-kôo-muâi-á thūn--khí-lâi.
-[NP]台羅多字 刪除Āu-piah
 
 [ngiu]
 綴著音樂扭腰顯尻川心適笑詼。
@@ -600,11 +572,9 @@ I ê nn̄g tshin-tshiūnn tāu-ngueh, tsi̍t ngueh tiānn-tio̍h sann-tsa̍p-gō
 雄雄有一个人共伊搖精神，伊目睭niah金，看著一个面腔足䆀的查埔人誠大聲共喝。
 Hiông-hiông ū tsi̍t ê lâng kā i iô tsing-sîn, I ba̍k-tsiu niah kim, khuànn-tio̍h tsi̍t ê bīn-tshiunn tsiok bái ê tsa-poo-lâng tsiânn tuā-siann kā huah.
 
-[nioo-無合法的音標]
-[NP]台南腔~ 量niu5/nioo5
+[nioo-臺南腔]
 
-[nio-無法度確定]
-[NP]無
+[nio-無]
 
 [nngh-泉]
 
@@ -612,10 +582,7 @@ Hiông-hiông ū tsi̍t ê lâng kā i iô tsing-sîn, I ba̍k-tsiu niah kim, kh
 
 [nui-宜蘭腔]
 
-[nu]
-這个原理就是號做Bôo-nū-lí定律。
-Tsit ê guân-lí tō sī hō-tsò Bôo-nū-lí tīng-lu̍t.
-[NP]Bôo-nū-lí看無???
+[nu-無]
 
 [op]
 每一隻攏對水雞空濆出來唱歌，連予人掠貯佇水雞籃仔內嘛咧op、op、op。
@@ -636,35 +603,28 @@ Ti-miâ ho̍k-tsong guī-tsō phiau-thâu, lāu-tsú-kòo khióng-kiann tsò-li�
 [phat]
 逐庄頭，定著會出一兩个仔這號頭殼各樣、pha̍t-tái pha̍t-tái的囡仔。
 Ta̍k tsng-thâu, tiānn-tio̍h ē tshut tsi̍t, nn̄g ê-á tsit-lō thâu-khak koh-iūnn, pha̍t-tái pha̍t-tái ê gín-á.
-[NP]日語借詞pha̋-tái
-
-毋管查埔抑查某，攏屬佇人世khong-hàm的一部分，屬toh一个人倫無照甲子的故事。
-M̄-kuán tsa-poo ia̍h tsa-bóo, lóng sio̍k tī jîn-sè khong-hàm ê tsi̍t pōo-hūn, sio̍k toh tsi̍t ê jîn-lûn bô-tsiàu kah-tsí ê kòo-sū.
-[NP]這句是愛收佗一个音？句子不順
 
 [phauh]
 紲落降下金珠仔大細的冰雹。
 Suà--lo̍h kàng-hā kim-tsu-á tuā-sè ê ping-pha̍uh.
 
 [pheh]
-無通照實共我說，講甲喙角全是沫。
-Bô-thang tsiàu-si̍t kā guá kóng, kóng kah tshuì-kak tsuân sī phe̍h.
-[NP]口水是泡pho，用雪文沫phe̍h
+若án-ni，就無彩一切的苦心，紲變做水沫。
+Nā án-ni, tō bô-tshái it-tshè ê khóo-sim, suà piàn-tsò suí-phe̍h.
 
 [phennh]
 山路才行無偌久爾爾，張大姊就喘phinn-phe̍nnh。
 Suann-lōo tsiah kiânn bô guā kú niā-niā, Tiunn tuā-tsé tō tshuán phinn-phe̍nnh.
-[NP]漢字偏改做拼音
 
 [phiak]
-新竹市一位五歲的查埔囡仔，因為胃腸炎擗(phia̍k)出大腸拍空，經過緊急的手術才過面。(併發，臺華辭典)
+新竹市一位五歲的查埔囡仔，因為胃腸炎擗(phia̍k)出大腸拍空，經過緊急的手術才過面。
 Sin-tik-tshī tsi̍t uī gōo huè ê tsa-poo gín-á, in-uī uī-tn̂g-iām phia̍k-tshut tuā-tn̂g phah-khang, king-kuè kín-kip ê tshiú-su̍t tsiah kuè-bīn.
-[NP]漢字邊仔標音較好唸
+（phia̍k擗：併發，臺華辭典）
 
 [phiang]
 因為伊的身軀傷過大龐(phiāng)，動作又閣傷過飯桶，致使伊的跤一擺閣一擺對鵝母的尻脊骿頂懸趨落來。
 In-uī i ê sing-khu siunn-kuè tuā-phiāng, tōng-tsok iū-koh siunn-kuè pn̄g-tháng, tì-sú i ê kha tsi̍t-pái koh tsi̍t-pái uì gô-bú ê kha-tsiah-phiann tíng-kuân tshu--lo̍h-lâi.
-[NP]漢字邊仔標音較好唸
+（大龐：大塊頭，教典）
 
 [phia-揣無]
 
@@ -687,7 +647,6 @@ Sī tī Tâi-kiú-suànn ê sió pōo-lo̍k, it-puann tshia phiu--leh tō kuè, 
 [phngh]
 莫按呢無代無誌就共人嗙。
 Mài án-ne bô-tāi-bô-tsì tō kā lâng phngh.
-[NP]咬改共
 
 [phng]
 公車頂食鹹酥雞予人阻擋phǹg-phǹg吼。
@@ -700,7 +659,6 @@ Piān-nā tsioh-khuán-jîn bô tsâi-tiāu phenn-hîng, tō khí sè-hàn--ê k
 [phuan]
 大湖軍艦的艦長潘文坤，前幾日違反營規，以及軍方戰備管制的規定。
 Tuā-ôo kun-lām ê lām-tiúnn Phuan Bûn-khun, tsîng kuí ji̍t uî-huán iânn-kui, í-ki̍p kun-hong tsiàn-pī kuán-tsè ê kui-tīng.
-[NP]前tsiân改tsîng，刪多餘「的」
 
 [phuat]
 指導老師用活潑心適的方式，引𤆬學生仔學台語的欲望。
@@ -713,12 +671,10 @@ Nn̄g ê lâng hiah-nī hó, suah kiânn kàu bué bô uá-khò, ài tshin-tshi�
 [phuh]
 生理人就用強力的phòng-phuh共水灌入去牛肉內面，非常悽慘殘忍。
 Sing-lí-lâng tō iōng kiông-li̍k ê phòng-phuh kā tsuí kuàn ji̍p-khì gû-bah lāi-bīn, hui-siông tshi-tshám tsân-jím.
-[NP]phòng-phuh是日語借詞，改寫台羅
 
 [phut]
 無疑悟，tsua̋n停佇高速公路頂共國光號閘牢咧，猶提刀仔欲刜ùn-tsiàng。
 Bô-gî-ngōo, tsua̋n thîng tī ko-sok kong-lōo-tíng kā Kok-kong-hō tsa̍h-tiâu--leh, iáu the̍h to-á beh phut ùn-tsiàng.
-[NP]刪「的車」多餘的字，ùn-tsiàng日語借詞，改做台羅
 
 [piak]
 醫界煏見笑代，醫生交結金光黨，kuí-lō億保險金予騙了了。
@@ -735,7 +691,6 @@ Oo-thâu-khok-á sī tiong-kē-hái-pua̍t ê tsiáu-luī, Tâi-tang ê tshiū-n
 [pua]
 嫁人了後，只有攑舂臼槌舂米、提簸箕簸米、掃塗跤、奉待翁姑、養飼囝就夠額矣，捌字無路用。
 Kè--lâng liáu-āu, tsí-ū gia̍h tsing-khū-thuî tsing-bí, the̍h puà-ki puà bí, sàu thôo-kha, hōng-thāi ang koo, iúnn-tshī kiánn tō kàu-gia̍h--ah, bat-jī bô-lōo-iōng.
-[NP]加輕聲，尪改翁，養iúnn
 
 [pueh]
 才八坪大的小套房，只有簡單的幾項家具。
@@ -745,14 +700,12 @@ Tsiah pueh phîng tuā ê sió thò-pâng, tsí-ū kán-tan ê kuí hāng ka-kū
 看這範勢是走無路矣，伊就pui̍h劍自殺。（拔劍，臺日）
 Khuànn tse pān-sè sī tsáu bô-lōo--ah, i tō pui̍h-kiàm tsū-sat.
 
-[puinn]
-食飯配滷卵。
-Tsia̍h-puīnn phuè lóo-nuī.
-[NP]宜蘭腔
+[puinn-宜蘭腔]
 
 [sainnh]
-欲創sainnh？（< siánn-huè，TJ小辭典）
+欲創sainnh？
 Beh tshòng sainnh?
+（sainnh：siánn-huè，TJ小辭典）
 
 [sainn]
 阿英看伊遐sainn-nai氣，就鬥姑情予𪜶𨑨迌較歡喜咧。（< sai-nai司奶，TJ小辭典）
@@ -765,17 +718,16 @@ Lán tàu-té teh tsò sannh?
 [sap]
 佛門法師姐弟爭財產起衝突，甚至參垃圾話都講出喙。
 Hu̍t-mn̂g huat-su tsiá-tē tsing tsâi-sán khí tshiong-tu̍t, sīm-tsì tsham lah-sap-uē to kóng-tshut tshuì.
-[NP]bûn改mn̂g
 
 [sennh-無]
 [siap]
 有立委向立場相仝的媒體，洩漏調查內情。特偵組的檢察官，嘛無遵守偵查無公開的原則。
 Ū li̍p-uí hiòng li̍p-tiûnn sio-kâng ê muî-thé, sia̍p-lāu tiau-tsa luē-tsîng. Ti̍k-tsing-tsoo ê kiám-tshat-kuann, mā bô tsun-siú tsing-tsa bô kong-khai ê guân-tsik.
-[NP]lāi改luē
 
 [sinnh]
-樹枝si̍nnh-sua̍innh叫。（拖椅ê聲，甘字典）
+樹枝si̍nnh-sua̍innh叫。
 Tshiū-ki si̍nnh-sua̍innh kiò.
+（si̍nnh：拖椅ê聲，甘字典）
 
 [sionn-無]台南腔
 
@@ -798,7 +750,6 @@ Tâi-uân Ài-bûn suāinn-á sîng-kong guā-siau Ji̍t-pún, tē-it phue suāi
 [suai]
 佇十八號親率素還真、妖后、月神等霹靂柴尪仔明星，佇雲林縣虎尾布袋戲館開演。
 Tī tsa̍p-peh-hō tshin-suài Sòo-huân-tsin, Iau-hōo, Gua̍t-sîn tíng phik-li̍k tshâ-ang-á bîng-tshenn, tī Hûn-lîm-kuān Hóo-bué pòo-tē-hì-kuán khai-ián.
-[NP]刪多餘「的」
 
 [suinn-宜蘭腔閬過]
 
@@ -807,21 +758,20 @@ Tī tsa̍p-peh-hō tshin-suài Sòo-huân-tsin, Iau-hōo, Gua̍t-sîn tíng phik
 Tsioh-mn̄g--tsi̍t-ē lín piān-sóo tī taih?
 
 [thainn]
-看你腹肚thāinn-thāinn，敢有身矣？(胸腹挺出來，TJ)
+看你腹肚thāinn-thāinn，敢有身矣？
 Khuànn lí Pak-tóo thāinn-thāinn, kám ū-sin--ah?
-[NP]補頭二字臺羅
+（thāinn：胸腹挺出來，TJ）
 
 [thap]
 因為閃避oo-tóo-bái煞舂著紅毛塗護欄，轎車的車頭塌窩(thap-o)一下真嚴重。
 In-uī siám-pī oo-tóo-bái suah tsing-tio̍h âng-mn̂g-thôo hōo-lân, kiau-tshia ê tshia-thâu thap-o tsi̍t-ē tsin giâm-tiōng.
-[NP]漢字邊仔加音，較好念
+* thap-o：凹窩，臺日。
 
 [thauh-無]
 
 [thenn]
 後壁若無勞委會共牚(thènn)牢咧，桃竹苗區的就業服務中心敢敢按呢亂舞？
 Āu-piah nā-bô lô-uí-huē kā thènn-tiâu--leh, Thô-tik-biâu khu ê tsiū-gia̍p ho̍k-bū tiong-sim kám kánn án-ne luān bú?
-[NP]漢字邊仔加音，較好念
 
 [thik]
 資方袂當排斥辛勞抑是去允頭路的人講臺語。
@@ -864,9 +814,8 @@ Tshiú-lāi the̍h hit tiunn phue-tsuá, ná tha̍k ba̍k-sái ná tho̍p-tho̍p
 Tō sǹg ba̍k-tsiu khuànn kah beh thuah-thang，iáu-sī tsí khuànn-tio̍h ba̍t-ba̍t ê oo-tiám.
 
 [thueh]
-In爸提來做筊本矣。
-In pē thue̍h-lâi tsuè kiáu-pún--ah.
-[NP]In pâ? In lāu-pē? Lín pē?
+In老爸提來做筊本矣。
+In lāu-pē thue̍h-lâi tsuè kiáu-pún--ah.
 
 [thue]
 公家的退休金平均8萬，一般勞工是2萬2。
@@ -875,7 +824,6 @@ Kong-ka ê thuè-hiu-kim pîng-kun peh-bān, it-puann lô-kang sī nn̄g-bān j�
 [thuh]
 因為今年量少，澎湖的拍賣市場逐家相爭買塗魠魚。
 In-uī kin-nî liōng tsió, Phênn-ôo ê phah-bē tshī-tiûnn ta̍k-ke sio-tsenn bé thôo-thuh-hî.
-[NP]刪多餘字「佇」
 
 [thuinn]
 [thut]
