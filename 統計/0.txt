@@ -808,17 +808,20 @@ Tsioh-mn̄g--tsi̍t-ē lín piān-sóo tī taih?
 
 [thainn]
 看你腹肚thāinn-thāinn，敢有身矣？(胸腹挺出來，TJ)
-Pak-tóo thāinn-thāinn, kám ū-sin--ah?
+Khuànn lí Pak-tóo thāinn-thāinn, kám ū-sin--ah?
+[NP]補頭二字臺羅
 
 [thap]
-因為閃避oo-tóo-bái煞舂著紅毛塗護欄，轎車的車頭塌窩一下真嚴重。
+因為閃避oo-tóo-bái煞舂著紅毛塗護欄，轎車的車頭塌窩(thap-o)一下真嚴重。
 In-uī siám-pī oo-tóo-bái suah tsing-tio̍h âng-mn̂g-thôo hōo-lân, kiau-tshia ê tshia-thâu thap-o tsi̍t-ē tsin giâm-tiōng.
+[NP]漢字邊仔加音，較好念
 
 [thauh-無]
 
 [thenn]
-後壁若無勞委會共牚牢咧，桃竹苗區的就業服務中心敢敢按呢亂舞？
+後壁若無勞委會共牚(thènn)牢咧，桃竹苗區的就業服務中心敢敢按呢亂舞？
 Āu-piah nā-bô lô-uí-huē kā thènn-tiâu--leh, Thô-tik-biâu khu ê tsiū-gia̍p ho̍k-bū tiong-sim kám kánn án-ne luān bú?
+[NP]漢字邊仔加音，較好念
 
 [thik]
 資方袂當排斥辛勞抑是去允頭路的人講臺語。
@@ -842,14 +845,14 @@ Thâu-ke-niû lín ū luā-tsuē be̍h thang thiò?
 
 [thiunn]
 自來台語演員無地位，著裝小丑仔，袂少藝名是用歹意思个話來號，像「脫線」就是。
-Tsū lâi Tâi-gí ián-guân bô tē-uī, tio̍h tsng siáu-thiúnn-á, bē-tsió gē-miâ sī iōng pháinn ì-sù ê uē lâi hō, tshiūnn "thuat-suànn" tō-sī.
+Tsū lâi Tâi-gí ián-guân bô tē-uī, tio̍h tsng siáu-thiúnn-á, bē-tsió gē-miâ sī iōng pháinn ì-sù ê uē lâi hō, tshiūnn "thuat-suànn" tō sī.
 
 [thoh]
 煮食的人共伊買一塊塗魠魚，伊嫌傷tseh-thuah，就捾去還予人。（[tseh-thuah 撮汰]	浪費，臺日）
-Tsú-tsia̍h ê-lâng kā-i bé tsi̍t-tè thôo-thoh hî, i hiâm siunn tseh-thuah, tō kuānn-khì hîng hōo lâng.
+Tsú-tsia̍h ê lâng kā i bé tsi̍t tè thôo-thoh hî, i hiâm siunn tseh-thuah, tō kuānn-khì hîng hōo--lâng.
 
 [thom]
-另外彼3个對後面捒牛尻川，按呢捒一下thōm一步，舞一晡才上車。（thōm，慢條斯理的做，TJ小辭典）
+另外彼三个對後面捒牛尻川，按呢捒一下thōm一步，舞一晡才上車。（thōm，慢條斯理的做，TJ小辭典）
 Līng-guā hit sann ê uì āu-bīn sak gû kha-tshuinn, án-ne sak--tsi̍t-ē thōm tsi̍t pōo, bú tsi̍t poo tsiah tsiūnn-tshia.
 
 [thop]
@@ -858,19 +861,21 @@ Tshiú-lāi the̍h hit tiunn phue-tsuá, ná tha̍k ba̍k-sái ná tho̍p-tho̍p
 
 [thuah]
 就算目睭看甲欲挩窗，猶是只看著密密的烏點。
-Tō-sǹg ba̍k-tsiu khuànn kah beh thuah-thang，iáu sī tsí khuànn-tio̍h ba̍t-ba̍t ê oo-tiám.
+Tō sǹg ba̍k-tsiu khuànn kah beh thuah-thang，iáu-sī tsí khuànn-tio̍h ba̍t-ba̍t ê oo-tiám.
 
 [thueh]
 In爸提來做筊本矣。
 In pē thue̍h-lâi tsuè kiáu-pún--ah.
+[NP]In pâ? In lāu-pē? Lín pē?
 
 [thue]
 公家的退休金平均8萬，一般勞工是2萬2。
-Kong-ka ê thuè-hiu-kim pîng-kun peh-bān, it-puann lô-kang sī nn̄g-bān-jī.
+Kong-ka ê thuè-hiu-kim pîng-kun peh-bān, it-puann lô-kang sī nn̄g-bān jī.
 
 [thuh]
-因為今年量少，佇澎湖的拍賣市場逐家相爭買塗魠魚。
-In-uī kin-nî liōng tsió, Phênn-ôo ê phah-bē-tshī-tiûnn ta̍k-ke sio-tsenn bé thôo-thuh-hî.
+因為今年量少，澎湖的拍賣市場逐家相爭買塗魠魚。
+In-uī kin-nî liōng tsió, Phênn-ôo ê phah-bē tshī-tiûnn ta̍k-ke sio-tsenn bé thôo-thuh-hî.
+[NP]刪多餘字「佇」
 
 [thuinn]
 [thut]
