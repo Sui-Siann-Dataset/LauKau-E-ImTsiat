@@ -765,7 +765,7 @@ Khuànn lí Pak-tóo thāinn-thāinn, kám ū-sin--ah?
 [thap]
 因為閃避oo-tóo-bái煞舂著紅毛塗護欄，轎車的車頭塌窩(thap-o)一下真嚴重。
 In-uī siám-pī oo-tóo-bái suah tsing-tio̍h âng-mn̂g-thôo hōo-lân, kiau-tshia ê tshia-thâu thap-o tsi̍t-ē tsin giâm-tiōng.
-* thap-o：凹窩，臺日。
+（thap-o：凹窩，臺日。）
 
 [thauh-無]
 
@@ -840,24 +840,21 @@ Tíng-lé-pài Tâi-tāi Jîn-luī ha̍k-hē ê bóo-mí káu-siū, siāu-kài t
 M̄-koh ū tsi̍t ê a-peh--á i tsin tàng-sng, sǹg-puânn tiak-tiak--leh kóng: "Aih-iah, án-ne m̄-thang!"
 
 [tiang]
-這對老tiâng-siū翁仔某牽手規世人，做伙守護這段珍貴的愛情。（人瑞，臺華辭典）
+這對老tiâng-siū翁仔某牽手規世人，做伙守護這段珍貴的愛情。
 Tsit tuì lāu-tiâng-siū ang-á-bóo khan-tshiú kui-sì-lâng, tsò-hué siú-hōo tsit tuann tin-kuì ê ài-tsîng.
-[NP]長字完全查不到tiâng音，反而是tiâng有泉音「誰」的意思
+（老tiâng-siū：人瑞，臺華辭典）
 
 [tiat]
 導演楊雅哲邀請信樂團的前主唱信佮十幾个義工，鬥翕反核廣告。
 Tō-ián Iûnn Ngá-tiat iau-tshiánn sìn-ga̍k-thuân ê tsîng tsú-tshiùnn Sìn kah tsa̍p-kuí ê gī-kang, tàu hip huán-hu̍t kong-kò.
-[NP]刪「頂」改「前」，「協助」改「鬥」
 
 [tinnh]
 翁毋挃某，某毋挃翁。
 Ang m̄-ti̍nnh bóo, bóo m̄-ti̍nnh ang.
-[NP]尪改翁
 
 [tiok]
 佇左營的宏南、宏毅宿舍包括無仝時期的建築設計，是全台灣從到今上完整的社區。
 Tī Tsó-iânn ê Hông-lâm, Hông-gē sok-sià pau-kuat bô-kâng sî-kî ê kiàn-tio̍k siat-kè, sī tsuân Tâi-uân tsîng-kàu-tann siōng uân-tsíng ê siā-khu.
-[NP]包含改包括，純粹覺得太華語
 
 [tionn-臺南腔免]
 
@@ -866,23 +863,22 @@ Tī Tsó-iânn ê Hông-lâm, Hông-gē sok-sià pau-kuat bô-kâng sî-kî ê k
 In-uī hueh-gâm tiānn-tiānn su-iàu huà-liâu, tī-liâu kuè-thîng hōo i thiànn-tiuh-tiuh.
 
 [tom]
-放榜了後才來毋敢佮人相tòm頭。（頕頭，Maryknoll&臺華）
+放榜了後才來毋敢佮人相tòm頭。
 Hòng-pńg liáu-āu tsiah lâi m̄-kánn kah lâng sio tòm-thâu.
+（tòm頭：頕頭，Maryknoll&臺華）
 
 [tonn]
 請你佇"tonn"一聲了後開始留話，多謝。
 Tshiánn lí tī "tonn" tsi̍t siann liáu-āu khai-sí lâu-uē, to-siā.
-[NP]tonn狀聲詞，無法判斷
 
 [top]
-較早食枝仔冰是怙舐的，吸甲to̍p-to̍p-tin，這馬食枝仔冰是怙咬的，哺甲爽歪歪。
-Khah-tsá tsia̍h ki-á-ping sī kōo tsn̄g--ē, khip kah to̍p-to̍p-tin, tsit-má tsia̍h ki-á-ping sī kōo kā--ē, pōo kah sóng-uainn-uainn.
-[NP]無語感，不知道是形容啥狀態？而且用舐的後面接吸?
+伊講橄欖滋味誠讚，小可甘甜甘甜，食著喙齒瀾to̍p-to̍p-tin。
+I kóng kan-ná tsu-bī tsiânn-tsán, sió-khuá kam-tinn kam-tinn, tsia̍h-tio̍h tshuì-khí-nuā to̍p-to̍p-tin.
+（to̍p-to̍p-tin：滴不停，TJ小辭典）
 
 [tsainn]
 因為過敏，致使掛手指的倒手尾二指腫甲佮煙腸平大。
 In-uī kuè-bín, tì-sú kuà tshiú-tsí ê tò-tshiú-bué jī-tsáinn tsíng kah kah ian-tshiâng pênn tuā.
-[NP]刪「了」，傷華語
 
 [tsann]
 路欲tsê-tsánn上緊嘛是明年年中。
@@ -897,7 +893,6 @@ Kiû lí hōo pháinn-lâng kiàn-siàu, hōo in tī im-kan tsīng-tsauh-tsauh.
 [tshainn]
 咱人若著生驚，心臟phi̍h-pho̍k-tsháinn、喘大氣，手自然會去挲捋（so-lua̍h）家己的胸坎。
 Lán lâng nā tio̍h-tshenn-kiann, sim-tsōng phi̍h-pho̍k-tsháinn, tshuán-tuā-khuì, tshiú tsū-liân ē khì so-lua̍h ka-tī ê hing-khám.
-[NP]著一驚？驚一趒？我改做「著生驚」
 
 [tshann]
 這時又閣放炮、大鑼大鼓，tshinn-tshinn錚錚。
@@ -914,14 +909,12 @@ Guá ê ling-tsuí tsha̍uh-tsha̍uh-tih.
 Lí mài heh-kiann--guá, hāi guá sim-kuann tshia̍k--tsi̍t-ē.
 
 [tshiap]
-有錢的查埔人娶三妻四妾是真四常的代誌 。
+有錢的查埔人娶三妻四妾是真四常的代誌。
 Ū-tsînn ê tsa-poo-lâng tshuā sam-tshe-sù-tshiap sī tsin sù-siông ê tāi-tsì.
-[NP]刪原句，無蓋好念
 
 [tshiauh]
 規路廣播電台佇我耳空邊tshia̍uh-tshia̍uh叫，話講袂停。
 Kui-lōo kóng-pò-tiān-tâi tī-guá hī-khang pinn tshia̍uh-tshia̍uh-kiò, uē kóng bē thîng.
-[NP]路中改規路，傷華語。未改袂
 
 欲予人請，逐家攏穿甲hóng-tshiauh-tshiauh。
 Beh hōo lâng tshiánn, ta̍k-ke lóng tshīng kah hóng-tshiauh-tshiauh.
@@ -981,14 +974,13 @@ Ba̍k-tsiu tshuh-tshuh, piān-sóo khuànn-tsò hoo-thé-luh.
 
 請你共薰焠(tshuh)予花。
 Tshiánn lí kā hun tshuh hōo hua.	
-[NP]調句較合台語講法
+（焠：gàn水, 火hoa。甘字典）
 
 [tshuinn-宜蘭]
 
 [tsiak]
-湯傷滇，我無細膩tsiak著 你的 褲 ,
+湯傷滇，我無細膩tsiak著你的褲。
 Thng siunn tīnn, guá bô sè-jī tsiak-tio̍h lí-ê khòo,
-[NP]失手改無細膩，失手比較屬犯下大錯
 
 [tsionn-台南]
 
@@ -1012,9 +1004,8 @@ Hué tsua̋inn sio-liáu-liáu.
 Ta̍k-ke lóng-sī thâu it pái pòo-tshân, kiat-kó tio̍h-sī ng-á tshah kah uai-uai-tsuāi-tsuāi.
 
 [tsueh]
-親像甜粿，八寶飯等年節(tsueh)食物，攏愛用秫米來做.
+親像甜粿、八寶飯等年節(tsueh)食物，攏愛用秫米來做.
 Tshin-tshiūnn tinn-kué, pat-pó-pn̄g tíng nî-tsueh tsia̍h-mi̍h, lóng ài-īng tsu̍t-bí lâi-tsò.
-[NP]補漢字
 
 [tuah]
 伊予阿公倖歹矣，不時佇遐受氣張掇。
@@ -1027,7 +1018,7 @@ I ê bīn phòng-phuê-phòng-phuê, tuainn-tuainn-tuainn.
 [tuai]
 人毋是伊刣的，伊落尾無關，就按呢tuaih.
 Lâng m̄ sī i thâi—ê, i lo̍h-bué bô kuainn, tsū-án-ne tuaih.
-[NP]tuaih轉來合音？
+（tuaih：轉來合音）
 
 猶毋過因為天氣䆀，無法度閣飛tuài臺灣。
 Iah-m̄-koh in-uī thinn-khì bái, bô-huat-tōo koh pue tuài Tâi-uân.
@@ -1055,7 +1046,7 @@ Lín nn̄g-khoo kiânn-lōo uainnh--leh uainnh--leh, tsáu khah kín--leh lah!
 
 [uainn]
 竹仔發出「嚶嚶uāinn-uāinn」的聲,
-Tik-á huat-tshut “inn-inn-uāinn-uāinn” ê siann,
+Tik-á huat-tshut "inn-inn-uāinn-uāinn" ê siann,
 
 [uannh]
 產婆腹肚撨了後，囡仔生落塗跤兜，隨時哭甲uannh-uannh吼。
@@ -1064,9 +1055,8 @@ Sán-pô pak-tóo tshiâu liáu-āu, gín-á sinn-lo̍h thôo-kha-tau, suî-sî 
 [uenn-無]
 
 [uh]
-衫仔褲uh著塗，有夠僫洗。
-Sann-á-khòo uh tio̍h thôo, ū-kàu oh sé.
-[NP]沒有語感
+聽講囡仔人拍噎仔較gâu大。
+Thiann-kóng gín-á-lâng phah-uh-á khah gâu tuā.
 
 [uih]
 𪜶手下假滇狂，佇城門的門扇亂寫亂劃。
